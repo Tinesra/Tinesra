@@ -1,7 +1,7 @@
 # 💫 Hi! I'm Arsent!
 
-🎓 IT Student | 🌟 Creativity Enthusiast | 🚀 Aspiring Startup Founder<br><br>
-🖥️ Currently a 2nd Year IT student at the Ateneo De Naga University<br>
+🎓 IT Student | 🌟 IVP for IT | 🚀 Aspiring Startup Founder<br><br>
+🖥️ Currently a 3rd Year IT student at the Ateneo De Naga University<br>
 💡 UI/UX, Networking and Cybersecurity Enthusiast<br>
 🎨 Tech and Creatives
 
@@ -35,7 +35,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tinesra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---
-Tinesra/Tinesra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
