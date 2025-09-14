@@ -1,6 +1,6 @@
 # 💫 Hi! I'm Arsent!
 
-🎓 IT Student | 🌟 IVP for IT | 🚀 Aspiring Startup Founder<br><br>
+🎓 IT Student | 🌟 IVP for IT | 📚 Notion Campus Leader | 🚀 Aspiring Startup Founder<br><br>
 🖥️ Currently a 3rd Year IT student at the Ateneo De Naga University<br>
 💡 UI/UX, Networking and Cybersecurity Enthusiast<br>
 🎨 Tech and Creatives
