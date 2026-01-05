@@ -1,6 +1,6 @@
 # 💫 Hi! I'm Arsent!
 
-🎓 IT Student | 🌟 IVP for IT | 📚 Notion Campus Leader | 🚀 Aspiring Startup Founder<br><br>
+🌟 IVP for IT | 📚 Notion Campus Leader | 🚀 Aspiring Startup Founder (VetKita) | 🎓 IT Student <br><br>
 🖥️ Currently a 3rd Year IT student at the Ateneo De Naga University<br>
 💡 UI/UX, Networking and Cybersecurity Enthusiast<br>
 🎨 Tech and Creatives
@@ -28,10 +28,16 @@
 </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tinesra&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tinesra&theme=monokai&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinesra&theme=monokai)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tinesra&theme=monokai&hide_border=false" /> <br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tinesra&theme=monokai" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tinesra&theme=monokai" />
+
+</div>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tinesra&icon=0&color=0)](https://visitcount.itsvg.in)
 
